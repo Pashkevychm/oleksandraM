@@ -7,12 +7,7 @@
    <title>Магазин пончиків</title>
 </head>
 <style>
-   h1{
-      color: red;
-   }
-   body {  
-      text-aling: center;
-   }
+
 
 /* Стилі пиши тут :) */
 
